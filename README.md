@@ -1,4 +1,4 @@
-# Script para conectar Python a MongoDB Atlas
+### Script python para conectar MongoDB Atlas con PowerBI mediante APIREST
 Expone un puerto según la base de datos y colección, para que luego pueda ser usado en Power BI por ejmp.
 
 Para ejecutar el script
